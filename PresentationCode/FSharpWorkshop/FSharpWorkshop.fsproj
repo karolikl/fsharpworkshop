@@ -44,11 +44,19 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <None Include="Script.fsx" />
+    <None Include="Agenda.md" />
     <Compile Include="Bindings.fs" />
     <Compile Include="Functions.fs" />
+    <Compile Include="Generics.fs" />
     <Compile Include="Tuples.fs" />
     <Compile Include="Records.fs" />
     <Compile Include="HigherOrderFunctions.fs" />
+    <Compile Include="Pipelining.fs" />
+    <Compile Include="PartialApplication.fs" />
+    <Compile Include="Composition.fs" />
+    <Compile Include="Options.fs" />
+    <Compile Include="PatternMatching.fs" />
+    <Compile Include="DiscriminatedUnion.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
