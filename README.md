@@ -65,3 +65,7 @@ Book: [Real-World Functional Programming](http://www.manning.com/petricek/) by T
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 Copyright 2015 Jorge Fioranelli
+
+Some of the code under the PresentationCode folder is copied from [fsharpforfunandprofit](http://fsharpforfunandprofit.com/).
+All code copied from [fsharpforfunandprofit](http://fsharpforfunandprofit.com/) is under the [CC by 3.0 license](http://creativecommons.org/licenses/by/3.0/)
+
