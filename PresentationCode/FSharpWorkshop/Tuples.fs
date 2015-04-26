@@ -9,6 +9,8 @@ let displayResult result =
    let (quotient, remainder) = result
    printfn "quotient is %d and remainder is %d" quotient remainder 
 
+//displayResult (2,4)
+
 let displayResult (quotient, remainder) =
    printfn "quotient is %d and remainder is %d" quotient remainder 
 
