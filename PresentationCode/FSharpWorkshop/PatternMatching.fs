@@ -23,11 +23,11 @@ let x =
     | _ -> "z" // _ wildcard, similar to default in C#
 
 // all match results must be of the same type
-let x = 
-    match 1 with 
-    | 1 -> 42
-    | 2 -> true  // error wrong type
-    | _ -> "hello" // error wrong type
+//let x = 
+//    match 1 with 
+//    | 1 -> 42
+//    | 2 -> true  // error wrong type
+//    | _ -> "hello" // error wrong type
 
 let y = 
     match (2, 33) with 

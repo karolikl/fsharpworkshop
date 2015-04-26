@@ -3,8 +3,8 @@
 let age = 42
 let pi = 3.14
 let name = "olav"
-name = "olav n"
+//name = "olav n"  // <--- funker ikke
 
-let mutable name = "olav"
-name <- "olav nybo"
+//let mutable name = "olav"  //mutable
+//name <- "olav nybo"
 
